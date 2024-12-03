@@ -1,4 +1,4 @@
-# This is the official repository of the paper Triplet Spectralwise Transformer Network for Hyperspectral Target Detection，TGRS, 2023
+# Triplet Spectralwise Transformer Network for Hyperspectral Target Detection，TGRS, 2023
 
 ## Files
 ``` TSTTD.py  vit.py  HTD_dataset.py  evaluation.py  detection.py`.```
@@ -11,6 +11,7 @@
 
 ## Note
 ```
+This is the official repository of the paper "Triplet Spectralwise Transformer Network for Hyperspectral Target Detection"
 1. We provide well-trained models of Muufl Gulfport and San Diego in './model', and you can test it directly by 'detection.py'.
 2. The trained models by `TSTTD.py` are saved in './result', and you can test your trained models by 'detection.py'.
 ```
