@@ -1,4 +1,5 @@
 # Triplet Spectralwise Transformer Network for Hyperspectral Target Detection，TGRS, 2023
+Files are in the master branch.
 
 ## Files
 ``` TSTTD.py  vit.py  HTD_dataset.py  evaluation.py  detection.py`.```
